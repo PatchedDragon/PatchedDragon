@@ -1,9 +1,9 @@
+---
+
 <h1 align="center">Patched Dragon</h1>
 <pre align="center">
   |  Programmer • Gamer • Tech Enthusiast  • Chess Player  |
 </pre>
-
----
 
 ## 🧠 About Me
 
