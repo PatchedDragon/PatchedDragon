@@ -1,9 +1,11 @@
 ---
 
 <h1 align="center">🔥 Patched Dragon 🔥</h1>
-<pre align="center">
+<div align="center"> 
+<pre>
   |  Programmer • Gamer • Tech Enthusiast  |
 </pre>
+</div>
 
 ## 🧠 About Me
 
