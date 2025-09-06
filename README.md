@@ -2,7 +2,7 @@
 
 <h1 align="center">🔥 Patched Dragon 🔥</h1>
 <pre align="center">
-  |  Programmer • Gamer • Tech Enthusiast  • Chess Player  |
+  |  Programmer • Gamer • Tech Enthusiast  |
 </pre>
 
 ## 🧠 About Me
