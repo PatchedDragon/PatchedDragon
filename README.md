@@ -1,6 +1,6 @@
 ---
 
-<h1 align="center">🔥 Patched Dragon 🔥</h1>
+<h1 align="center">🌗👑 Patched Dragon 👑🌗</h1>
 <div align="center"> 
 <pre>
   |  Programmer • Gamer • Tech Enthusiast  |
