@@ -15,7 +15,6 @@
 - 🗄️ Other Tech: Docker, Virtual Machines
 - 🚀 Always learning and improving UI/UX, performance & deployment
 - ♟️ Passionate chess player
-- 🛠️ Currently working on MERN stack
 
 ---
 
