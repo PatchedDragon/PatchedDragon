@@ -3,7 +3,7 @@
 <h1 align="center">🌗👑 ALI RAZA 👑🌗</h1>
 <div align="center"> 
 <pre>
-  |  Programmer • Gamer • Tech Enthusiast  |
+  |  Programmer • Gamer  |
 </pre>
 </div>
 
